@@ -14,8 +14,8 @@ var users = require('./routes/users');
 var app = express();
 
 
-var WEIBO_CLIENT_ID = "18205253820";
-var WEIBO_CLIENT_SECRET = "wj1314520";
+var WEIBO_CLIENT_ID = "clent_id";
+var WEIBO_CLIENT_SECRET = "secret";
 
 //var WEIBO_CLIENT_ID = "--insert-weibo-client-id-here--";
 //var WEIBO_CLIENT_SECRET = "--insert-weibo-client-secret-here--";

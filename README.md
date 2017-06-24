@@ -1,4 +1,6 @@
 # passport-weibo
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/SensitiveMix/passport-weibo.svg)](https://greenkeeper.io/)
 passport-weibo
 
 1.fork me
